@@ -1,6 +1,6 @@
 # Project 4
 
-
+![erd board](assets/P4MainHeader.png)
 
 ## Overview
 
